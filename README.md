@@ -5,3 +5,4 @@
 -   Init migrations with `flask db init` -- run only once
 -   Create/autogenerate migration files with `flask db migrate -m ""`
 -   Apply our migration with `flask db upgrade`
+
